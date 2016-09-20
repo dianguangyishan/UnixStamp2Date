@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1474387939 source:f:\personalplace\baidutest\main.cpp
+	<iostream>
+	"Stamp.h"
+	<string>
+
+1474383474 f:\personalplace\baidutest\include\stamp.h
+	<string>
+	<iostream>
+
+1474388880 source:f:\personalplace\baidutest\src\stamp.cpp
+	"Stamp.h"
+	<stdio.h>
+
